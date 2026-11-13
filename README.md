@@ -7,7 +7,7 @@ DACON 와인 품질 분류 데이터로 와인의 품질 등급(3~9)을 분류�
 | 파일 | 내용 |
 |---|---|
 | [`ESAA_YB_wine_quality_all.ipynb`](ESAA_YB_wine_quality_all.ipynb) | 데이터 확인부터 EDA, 전처리 결정, 검증 설계, 모델 비교, 앙상블, 시행착오, 최종 모델까지 전체 과정 |
-| [`submission/submission_0712.csv`](submission/submission_0712.csv) | 리더보드 0.713 제출 파일 |
+| [`submission/submission_0713.csv`](submission/submission_0713.csv) | 리더보드 0.713 제출 파일 |
 | [`requirements.txt`](requirements.txt) | 실행 환경의 라이브러리 버전 |
 
 ## 흐름
