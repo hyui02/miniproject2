@@ -1,0 +1,5 @@
+.venv/
+data/
+wine.zip
+catboost_info/
+.ipynb_checkpoints/
