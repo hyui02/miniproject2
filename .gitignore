@@ -3,3 +3,4 @@ data/
 wine.zip
 catboost_info/
 .ipynb_checkpoints/
+submission.csv
